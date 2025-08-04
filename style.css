@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 :root{
-    --bg-color: white;
+    --bg-color: pink;
 }
 body {
     height: 100vh;
